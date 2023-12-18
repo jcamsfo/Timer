@@ -1,0 +1,3 @@
+[Desktop Entry]
+Name=PiTimer
+Exec = /home/timer3/Desktop/pi4_pi5_timer.sh
